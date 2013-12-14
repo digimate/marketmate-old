@@ -1,0 +1,1 @@
+<?php //this is product type pages ?>

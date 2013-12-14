@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDataCompressor.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDownloadCache.m
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIProgressDelegate.h
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIFormDataRequest.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDataCompressor.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIFormDataRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASICacheDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIHTTPRequest.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIInputStream.h
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIHTTPRequest.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIHTTPRequestDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIAuthenticationDialog.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIInputStream.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASINetworkQueue.h
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIAuthenticationDialog.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASINetworkQueue.m
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/worldwarz/!svn/ver/1/Worldwar%20Z/WorldWarZ/libs/ASIHRequest/ASIDownloadCache.h
+END

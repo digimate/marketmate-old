@@ -1,0 +1,1 @@
+<?php //get advertisement page ?>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_loginpage"
+    android:orientation="vertical" >
+    
+	<RelativeLayout
+	    android:id="@+id/call_us"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="6dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="100dp"
+	    android:layout_marginLeft="40dp"
+	    android:layout_marginRight="40dp"
+	    android:background="@drawable/bg_callus" >
+	    <ImageView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/ic_call"
+	        android:contentDescription="@string/app_name" />
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/call_us"
+	        android:textColor="@color/white"
+	        android:textSize="20sp"
+	        android:layout_centerVertical="true"
+	        android:layout_centerHorizontal="true" />
+	</RelativeLayout>
+	
+	<RelativeLayout
+	    android:id="@+id/send_mail"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="6dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="20dp"
+	    android:layout_marginLeft="40dp"
+	    android:layout_marginRight="40dp"
+	    android:background="@drawable/bg_sendmail" >
+	    <ImageView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/ic_email"
+	        android:contentDescription="@string/app_name" />
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/send_mail"
+	        android:textColor="@color/white"
+	        android:textSize="20sp"
+	        android:layout_centerVertical="true"
+	        android:layout_centerHorizontal="true" />
+	</RelativeLayout>
+	
+	<RelativeLayout
+	    android:id="@+id/goto_website"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="6dp"
+	    android:orientation="horizontal"
+	    android:layout_marginTop="20dp"
+	    android:layout_marginLeft="40dp"
+	    android:layout_marginRight="40dp"
+	    android:background="@drawable/bg_goto_website" >
+	    <ImageView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/ic_web"
+	        android:contentDescription="@string/app_name" />
+	    <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="@string/go_to_website"
+	        android:textColor="@color/white"
+	        android:textSize="20sp"
+	        android:layout_centerVertical="true"
+	        android:layout_centerHorizontal="true" />
+	</RelativeLayout>
+	
+	<LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+    </LinearLayout>
+    
+	<ImageView
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/texture"
+	    android:contentDescription="@string/app_name" />
+</LinearLayout>

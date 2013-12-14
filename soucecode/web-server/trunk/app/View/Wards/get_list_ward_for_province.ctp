@@ -1,0 +1,1 @@
+<?php //this is get list wards for province ?>

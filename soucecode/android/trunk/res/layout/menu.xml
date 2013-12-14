@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button_home"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/home_page" />
+
+    <Button
+        android:id="@+id/button_details"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:layout_gravity="center_horizontal"
+         android:layout_marginBottom="5dp"
+        android:text="@string/detail_page" />
+    
+
+    <Button
+        android:id="@+id/button_mybox"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+         android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/mybox_page" />
+    
+
+    <Button
+        android:id="@+id/button_list"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+         android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/list_page" />
+    
+
+    <Button
+        android:id="@+id/button_account"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+         android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/account_page" />
+    
+
+    <Button
+        android:id="@+id/button_post"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+         android:background="@color/green"
+         android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/post_page" />
+    <Button
+        android:id="@+id/button_allcategory"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/all_category" />
+    
+    <Button
+        android:id="@+id/button_signupstep"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:layout_marginBottom="5dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/signup_step" />
+
+</LinearLayout>

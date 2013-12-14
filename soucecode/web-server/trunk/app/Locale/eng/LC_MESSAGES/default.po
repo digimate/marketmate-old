@@ -1,0 +1,81 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-11-15 07:39+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+
+msgid "error_200"
+msgstr "Success."
+
+msgid "error_400"
+msgstr "Bad request."
+
+msgid "error_428"
+msgstr "Miss information."
+
+msgid "login_susccess"
+msgstr "Login success."
+
+msgid "login_failed"
+msgstr "Login failed."
+
+msgid "login_miss_information"
+msgstr "Please, input both username and password."
+
+
+msgid "logout_success"
+msgstr "Logout success."
+
+msgid "logout_failed"
+msgstr "Logout failed."
+
+msgid "register_success"
+msgstr "Register success."
+
+msgid "register_failed"
+msgstr "Register failed."
+
+msgid "pass_has_been_reset"
+msgstr "Password has been reseted."
+
+msgid "email_not_exist"
+msgstr "This email not exist."
+
+msgid "post_product_success"
+msgstr "Product has been saved."
+
+msgid "get_success"
+msgstr "Get succesfuly."
+
+msgid "comment_success"
+msgstr "Comment successfuly."
+
+msgid "comment_failed"
+msgstr "Comment failed."
+
+msgid "rate_success"
+msgstr "Rate successfuly."
+
+msgid "rate_failed"
+msgstr "Rate failed."
+
+msgid "has_been_save_note"
+msgstr "User's note has been saved."
+
+msgid "has_not_been_save_note"
+msgstr "User's note has not saved."
+
+msgid "no_advertisement"
+msgstr "No advertisement."

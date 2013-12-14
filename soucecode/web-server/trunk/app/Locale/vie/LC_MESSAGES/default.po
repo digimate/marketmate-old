@@ -1,0 +1,82 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2013-11-15 07:39+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+
+
+msgid "error_200"
+msgstr "Thành công."
+
+msgid "error_400"
+msgstr "yêu cầu không hợp lệ."
+
+msgid "error_428"
+msgstr "Thiếu thông tin yêu cầu."
+
+msgid "login_susccess"
+msgstr "Đăng nhập thành công."
+
+msgid "login_failed"
+msgstr "Đăng nhập thất bại."
+
+msgid "login_miss_information"
+msgstr "Vui lòng nhập đủ username và password."
+
+
+msgid "logout_success"
+msgstr "Đăng xuất thành công."
+
+msgid "logout_failed"
+msgstr "Đăng xuất thất bại."
+
+msgid "register_success"
+msgstr "Đăng ký thành công."
+
+msgid "register_failed"
+msgstr "Đăng ký thất bại."
+
+msgid "pass_has_been_reset"
+msgstr "Password đã được thay đổi."
+
+msgid "email_not_exist"
+msgstr "Email không tồn tại."
+
+msgid "post_product_success"
+msgstr "Đăng sản phẩm thành công."
+
+msgid "get_success"
+msgstr "Lấy thông tin thành công."
+
+msgid "comment_success"
+msgstr "Bình luận thành công."
+
+msgid "comment_failed"
+msgstr "Bình luận thất bại."
+
+msgid "rate_success"
+msgstr "Bình chọn thành công."
+
+msgid "rate_failed"
+msgstr "Bình chọn thất bại."
+
+msgid "has_been_save_note"
+msgstr "Chú ý của người dùng đã được lưu."
+
+msgid "has_not_been_save_note"
+msgstr "Chú ý của người dùng chưa được lưu."
+
+
+msgid "no_advertisement"
+msgstr "Không có quảng cáo nào."

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+        <include layout="@layout/header" />
+    
+    
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        android:scaleType="fitXY"
+        android:src="@drawable/line_color" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.digimate.marketmate.customview.TopMenu
+            android:id="@+id/menu_guest"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.digimate.marketmate.customview.TopMenu>
+
+        <com.digimate.marketmate.customview.TopMenu
+            android:id="@+id/menu_login"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.digimate.marketmate.customview.TopMenu>
+
+        <com.digimate.marketmate.customview.TopMenu
+            android:id="@+id/menu_signup"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.digimate.marketmate.customview.TopMenu>
+
+        <com.digimate.marketmate.customview.TopMenu
+            android:id="@+id/menu_contactus"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+        </com.digimate.marketmate.customview.TopMenu>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <fragment
+            android:id="@+id/fragment_guest"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            class="com.digimate.marketmate.fragment.FragmentGuest" />
+
+        <fragment
+            android:id="@+id/fragment_login"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            class="com.digimate.marketmate.fragment.FragmentLogIn" />
+
+        <fragment
+            android:id="@+id/fragment_signup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            class="com.digimate.marketmate.fragment.FragmentSignUp" />
+
+        <fragment
+            android:id="@+id/fragment_contact_us"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            class="com.digimate.marketmate.fragment.FragmentContact" />
+    </RelativeLayout>
+
+</LinearLayout>

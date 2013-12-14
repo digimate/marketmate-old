@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="red">#ee1d5b</color>
+    <color name="black">#000000</color>
+    <color name="bg_topmenu_normal">#202020</color>
+    <color name="bg_topmenu_selected">#4f4f4f</color>
+    <color name="topmenu_text">#ffffff</color>
+    <color name="bg_button">#ee225f</color>
+    <color name="button_border">#c1c1c1</color>
+    <color name="bg_sendmail">#2693bf</color>
+    <color name="bg_goto_website">#55c058</color>
+    <color name="black_transferen">#33000000</color>
+    <color name="yellow">#ffc600</color>
+    <color name="grew">#e7e7e7</color>
+     <color name="pink">#ed235f</color>
+     <color name="grew1">#a1a1a1</color>
+     <color name="blue">#1d89ba</color>
+     <color name="green">#57b747</color>
+</resources>
